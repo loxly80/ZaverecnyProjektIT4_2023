@@ -1,5 +1,5 @@
 
-# ZaverecnyProjektIT4_2023
+# ZaverecnyProjektIT4_2023 - DATUM ODEVZDÁNÍ: 31.3.2023
 
 V jazyce C# vytvořte formulářovou aplikaci s datovou základnou v SQL Serveru (může být localDB). 
 
